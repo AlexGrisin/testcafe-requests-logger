@@ -1,0 +1,14 @@
+{
+  "name": "testcafe-requests-logger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome:headless tests"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "testcafe": "^1.16.0"
+  }
+}
